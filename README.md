@@ -1,6 +1,7 @@
 -  Hi, I’m Herbert Ochoa Junior/intermediate back-end developer.
 -  using .NET c# language working with MVC architecture, generating and Fetching api, CRUD sintax and working with layers classes. 
 -  Programming on different computer systems (Windows,Mac and linux) also elaborating SPA application with React.   
+-  
 ![c-sharp-dot-net](https://user-images.githubusercontent.com/30585588/210034490-c5f94f4e-ac5c-483b-8fb8-970e75dd0259.png)
 
 
