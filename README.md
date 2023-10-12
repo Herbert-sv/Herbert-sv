@@ -8,6 +8,4 @@
 
 <img heigth="350" width="1100" alt="nodejs-logo" src="https://github.com/Herbert-sv/Herbert-sv/assets/30585588/dc454aaa-c2af-40c7-a1dc-47be62cdf00f">
 
- - SPA with React library, while heading to be front/back-end developer (React.js)🖥️
- 
 <img height="350" width="1100" src="https://github.com/Herbert-sv/Herbert-sv/assets/30585588/b9936fc1-0b6e-4f49-9d3b-0a69c4298f08">
