@@ -1,7 +1,8 @@
--  Hi, I’m Herbert Ochoa Junior/intermediate back-end developer.
--  Coding with .NET c# language working with MVC architecture, generating and Fetching api, CRUD sintax and working with layers classes.
--  Coding with Node.js and Express for front-end single apps or projects
--  Programming on different computer systems (Windows,Mac and linux) also elaborating SPA application with React.   
+-  Hi, I’m Herbert Ochoa Junior/intermediate full stack developer.
+-  Coding with node.js, Express.js and .NET
+-  .Net. language for coding c# working with MVC architecture, generating and Fetching api, CRUD sintax and working with layers classes.
+- FE Coding with Node.js, Express.js and Javascript and React.js for front-end single apps or projects
+-  Programming on different computer systems (Windows,Mac and linux)   
   
 ![c-sharp-dot-net](https://user-images.githubusercontent.com/30585588/210034490-c5f94f4e-ac5c-483b-8fb8-970e75dd0259.png)
 
