@@ -12,7 +12,6 @@
 <br/>
 <img height="350" width="1100" src="https://github.com/Herbert-sv/Herbert-sv/assets/30585588/b9936fc1-0b6e-4f49-9d3b-0a69c4298f08">
 <br/>
-<img height="300" width="1100" src="https://github.com/user-attachments/assets/599c5cdf-7566-4954-8082-04b330e28eec">
 <img height="300" width="1100" src="https://github.com/user-attachments/assets/35898219-1a53-494e-8327-7b96dd42d796">
 <img  height="300" width="1100" src="https://github.com/user-attachments/assets/9b47378d-9d64-4e20-8b20-8ecee7b575f9">
 
